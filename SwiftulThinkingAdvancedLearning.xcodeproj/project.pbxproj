@@ -14,6 +14,8 @@
 		C4158CE12BE3E5CA001AD187 /* ViewModifiersBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4158CE02BE3E5CA001AD187 /* ViewModifiersBootcamp.swift */; };
 		C47991F02BE8961A00837C31 /* ButtonStylesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C47991EF2BE8961A00837C31 /* ButtonStylesBootcamp.swift */; };
 		C47991F22BE8C3AB00837C31 /* AnyTransitionsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C47991F12BE8C3AB00837C31 /* AnyTransitionsBootcamp.swift */; };
+		C49F25552BEA12C20007F672 /* MatchedGeometryEffectBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C49F25542BEA12C20007F672 /* MatchedGeometryEffectBootcamp.swift */; };
+		C49F25572BEA4F330007F672 /* CustomShapeBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C49F25562BEA4F330007F672 /* CustomShapeBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +27,8 @@
 		C4158CE02BE3E5CA001AD187 /* ViewModifiersBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModifiersBootcamp.swift; sourceTree = "<group>"; };
 		C47991EF2BE8961A00837C31 /* ButtonStylesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStylesBootcamp.swift; sourceTree = "<group>"; };
 		C47991F12BE8C3AB00837C31 /* AnyTransitionsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyTransitionsBootcamp.swift; sourceTree = "<group>"; };
+		C49F25542BEA12C20007F672 /* MatchedGeometryEffectBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MatchedGeometryEffectBootcamp.swift; sourceTree = "<group>"; };
+		C49F25562BEA4F330007F672 /* CustomShapeBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomShapeBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,8 @@
 				C4158CE02BE3E5CA001AD187 /* ViewModifiersBootcamp.swift */,
 				C47991EF2BE8961A00837C31 /* ButtonStylesBootcamp.swift */,
 				C47991F12BE8C3AB00837C31 /* AnyTransitionsBootcamp.swift */,
+				C49F25542BEA12C20007F672 /* MatchedGeometryEffectBootcamp.swift */,
+				C49F25562BEA4F330007F672 /* CustomShapeBootcamp.swift */,
 				C4158CD62BE3E557001AD187 /* Assets.xcassets */,
 				C4158CD82BE3E557001AD187 /* Preview Content */,
 			);
@@ -146,10 +152,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C49F25552BEA12C20007F672 /* MatchedGeometryEffectBootcamp.swift in Sources */,
 				C47991F22BE8C3AB00837C31 /* AnyTransitionsBootcamp.swift in Sources */,
 				C4158CD52BE3E555001AD187 /* ContentView.swift in Sources */,
 				C4158CE12BE3E5CA001AD187 /* ViewModifiersBootcamp.swift in Sources */,
 				C47991F02BE8961A00837C31 /* ButtonStylesBootcamp.swift in Sources */,
+				C49F25572BEA4F330007F672 /* CustomShapeBootcamp.swift in Sources */,
 				C4158CD32BE3E555001AD187 /* SwiftulThinkingAdvancedLearningApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
